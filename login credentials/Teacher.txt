@@ -1,0 +1,5 @@
+Login Credentials for Teacher :
+1. email address - demo_teacher1@example.com
+   password - demo_teacher1
+2. email address - demo_teacher2@example.com
+   password - demo_teacher2  
