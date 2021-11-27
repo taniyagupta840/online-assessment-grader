@@ -46,5 +46,5 @@ email: demo_student3@example.com password: demo_student3
 
 ## Screenshots
 
-![Home Page]()
-![Login Page]()
+![Home Page](https://github.com/taniyagupta840/online-assessment-grader/blob/main/screenshots/app1.PNG)
+![Login Page](https://github.com/taniyagupta840/online-assessment-grader/blob/main/screenshots/app2.PNG)
