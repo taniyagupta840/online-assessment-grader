@@ -44,6 +44,9 @@ Student can also review the answer key of already attempted assessments. Teacher
 
 * Database Connection URL is present in /server/.env
 
+## Deployed Website Link
+   https://online-assessment-grader.netlify.app/
+
 ## Screenshots
 
 ![Home Page](https://github.com/taniyagupta840/online-assessment-grader/blob/main/screenshots/app1.PNG)
