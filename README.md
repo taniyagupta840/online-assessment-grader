@@ -35,12 +35,12 @@ Student can also review the answer key of already attempted assessments. Teacher
 ## Login Credentials
 
 * Login for Teacher's IDs
-email: demo_teacher1@example.com password: demo_teacher1
-email: demo_teacher2@example.com password: demo_teacher2
+1. email: demo_teacher1@example.com password: demo_teacher1
+2. email: demo_teacher2@example.com password: demo_teacher2
 * Login for Student's IDs
-email: demo_student1@example.com password: demo_student1
-email: demo_student2@example.com password: demo_student2
-email: demo_student3@example.com password: demo_student3
+1. email: demo_student1@example.com password: demo_student1
+2. email: demo_student2@example.com password: demo_student2
+3. email: demo_student3@example.com password: demo_student3
 
 * Database Connection URL is present in /server/.env
 
