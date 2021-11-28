@@ -21,15 +21,20 @@ Student can also review the answer key of already attempted assessments. Teacher
 * Clone this repository.
 * Open terminal in working directory.
 * Run following commands
-``cd client``
-``npm install``
-``npm start``
+```
+cd client
+npm install
+npm start
+```
 
 * Open another terminal window in working directory.
 * Run following commands
-``cd server``
-``npm install``
-``npm start``
+```
+cd server
+npm install
+npm start
+```
+
 * Now both server and client sides should be up and running on localhost.
 
 ## Login Credentials
