@@ -7,7 +7,7 @@ Student can also review the answer key of already attempted assessments. Teacher
 
 ## Features
 
-* **Separate dashboards for Teacher and Student** - Created separate dashboard for teachers and students after they login at the main home webpage.
+* **Separate dashboard for Teacher and Student** - Created separate dashboard for teachers and students after they login at the main home webpage.
 * **Create Assessment** - Teachers can create assessments with various parameters, like duration of test, marks per correct answer, negative marking.
 * **Add Images** - Teachers can also add an image as a reference to each question.
 * **Attempt Assessment** - Students can attempt the assessments given by the teachers.
