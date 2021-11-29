@@ -1,4 +1,4 @@
-## The Challenge
+##  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" height="15px" /> __Microsoft Engage' 21 - The Challenge
 
 Build a functional prototype of a platform that gives students an array of digital academic and social tools to stay engaged with their studies, peers and broader university community during pandemic.
 
