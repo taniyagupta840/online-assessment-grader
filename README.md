@@ -1,3 +1,7 @@
+## The Challenge
+
+Build a functional prototype of a platform that gives students an array of digital academic and social tools to stay engaged with their studies, peers and broader university community during pandemic.
+
 # Online Assessment Grader
 
 ## Introduction
